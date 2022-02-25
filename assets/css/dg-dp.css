@@ -1,0 +1,13 @@
+.item{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(226, 94, 94)
+    
+}
+
+#drop{
+    width:400px;
+    height: 400px;
+    background-color:teal;
+    float:right;
+}
